@@ -1,6 +1,6 @@
 ***Note: This is the source code repository of the MMGen wallet system.  For an
 easier way to install MMGen, check out the prebuilt bootable USB images on the
-[MMGenLive][8] home page.***
+[MMGenLive][8] home page.*** 
 
 # MMGen = Multi-Mode GENerator
 
